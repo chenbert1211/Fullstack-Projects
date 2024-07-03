@@ -1,0 +1,1 @@
+{"mime":"text/x-markdown","filter":false,"title":"README.md","tooltip":"/foundations-checkpoint-pt-1-Bert/00_find_obj_properties/README.md","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1652727376254,"hash":"612a280717c0c2122ad81eec9d0fa69478b0cee2"}

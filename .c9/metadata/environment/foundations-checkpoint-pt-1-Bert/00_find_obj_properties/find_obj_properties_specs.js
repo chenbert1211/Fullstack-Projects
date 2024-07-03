@@ -1,0 +1,1 @@
+{"mime":"application/javascript","filter":false,"title":"find_obj_properties_specs.js","tooltip":"/foundations-checkpoint-pt-1-Bert/00_find_obj_properties/find_obj_properties_specs.js","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1652727376210,"hash":"f491fcb0aef33b669b1047c280601217fe5aa78f"}

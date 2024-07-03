@@ -1,0 +1,66 @@
+body {
+        margin: 0;
+    }
+head{
+    box-sizing: border-box;
+}
+
+
+
+.canvasbody{
+    position: relative;
+    display: inline-block;
+    padding: 20px;
+}
+
+.status{
+     position: absolute;
+     display: flex;
+     width: 100%;
+     align-items: center;
+}
+
+.timer{
+    background-color: blue;
+height: 100px;
+width: 100px;
+flex-shrink: 0; 
+display: flex;
+align-items: center;
+justify-content:center;
+}
+
+.missingHealth{
+    position: absolute;
+    background-color: blue;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+    right: 0px
+}
+
+.parentHealth{
+    justify-content: flex-end;
+    position: relative;
+    height: 30px;
+    width: 40%;
+}
+
+.health {
+background-color: yellow;
+height: 30px;
+width: 100%;
+
+}
+
+#tie{
+    position: absolute;
+    color: white;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}

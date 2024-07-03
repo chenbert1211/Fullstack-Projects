@@ -1,0 +1,10 @@
+div{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#win{
+    text-align: center;
+    color: white
+}
